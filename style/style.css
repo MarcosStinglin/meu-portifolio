@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
 :root {
-    --cor-primaria: #395144;
+    --cor-primaria: #65647C;
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #AA8B56;
-    --cor-hover: #AA8B56;
+    --cor-terciaria: #8B7E74;
+    --cor-hover: #F1D3B3;
 }
 
 * {
